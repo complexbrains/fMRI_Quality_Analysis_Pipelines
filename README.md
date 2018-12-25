@@ -46,7 +46,7 @@ If you know any sources that you think they should be listed here please do feel
 
 * [MRIQC](https://mriqc.readthedocs.io/en/stable/) by the Poldrack Lab at Stanford University
 
-* Cambridge University's [data diagnostic](http://imaging.mrc-cbu.cam.ac.uk/imaging/DataDiagnostics) webpage. This page explains how to extract mean and standart images from the data. I wrote the scripts in Matlab, so you can find them from [here] !!!!!!. Cambridge also provides a tsdiffana toolbox to plot the variations across the image-to-image and slice-to-slice intensity variance. I found those plots very useful to find out the noisy participants, I would strongly recommend you to use it as a starting QA analysis. 
+* Cambridge University's [data diagnostic](http://imaging.mrc-cbu.cam.ac.uk/imaging/DataDiagnostics) webpage. This page explains how to extract mean and standart images from the data. I wrote the scripts in Matlab, the codes are available [in this respository](https://github.com/complexbrains/fMRI_Quality_Analysis_Pipelines). Cambridge also provides a tsdiffana toolbox to plot the variations across the image-to-image and slice-to-slice intensity variance. I found those plots very useful to find out the noisy participants, I would strongly recommend you to use it as a starting QA analysis. 
 
 * MIT's Artifact Detection toolbox [ART](https://www.nitrc.org/projects/artifact_detect/)
 
