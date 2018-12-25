@@ -6,6 +6,7 @@ function create4Dmovie
 % researcher to observe the head motion in the images. You can watch the
 % movies using FSL View and see which image the head movements are. 
 % 
+% Dependency: spm12
 % 
 % Isil Bilgin 01/04/2018
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
