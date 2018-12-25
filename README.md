@@ -58,9 +58,9 @@ If you know any sources that you think they should be listed here please do feel
 
 * Rorden Lab's fMRI analysis and quality investigation [scripts](https://github.com/rordenlab/spmScripts)
 
-* [NDS Lab]'s (http://www.decisionneurosciencelab.com/) MRI preprocessing and quality [analysis pipeline](http://ndslab.github.io/mri_pipeline/doc/#!index.md) in which you could run a spike detection analysis, investigate the movement parameters you obtained in realignment, extract and plot mean image statistics across slices and images and plot the mosaic movies from your functional images. They also provide a preprocessing SPM batch scripts. 
+* [NDS Lab's](http://www.decisionneurosciencelab.com/) MRI preprocessing and quality [analysis pipeline](http://ndslab.github.io/mri_pipeline/doc/#!pages/howto_getting_started.md) in which you could run a spike detection analysis, investigate the movement parameters you obtained in realignment, extract and plot mean image statistics across slices and images and plot the mosaic movies from your functional images. They also provide a preprocessing SPM batch scripts. 
 
-* You can also find another set of scripts of Jeroen van Baar's [Github page](https://github.com/jeroenvanbaar/mri_pipeline/tree/master/analysis_mri/2_data_quality_check). The scrits contains function to detects spikes in the data and remove from it.
+* You can also find another set of scripts of Jeroen van Baar's [Github page](https://github.com/jeroenvanbaar/mri_pipeline/tree/master/analysis_mri/2_data_quality_check). The scripts contains function to detects spikes in the data and remove from it.
 
 ### Scientific Articles
 
