@@ -10,7 +10,7 @@ If you know any sources that you think they should be listed here please do feel
 
 ### Web Pages
 
-* Harvard Univeristy's [neuroimaging page](http://cbs.fas.harvard.edu/science/core-facilities/neuroimaging/information-investigators/qc) gives detailed explanation of investigations you should run through your data. Although the page explains the pipeline through their system called CBSCentral, you still could learn quite bit details about quality analysis steps from this page.
+* Harvard University's [neuroimaging page](http://cbs.fas.harvard.edu/science/core-facilities/neuroimaging/information-investigators/qc) gives detailed explanation of investigations you should run through your data. Although the page explains the pipeline through their system called CBSCentral, you still could learn quite bit details about quality analysis steps from this page.
 
 * Cambridge University's two webpage [here](http://imaging.mrc-cbu.cam.ac.uk/imaging/CommonArtefacts#spinhistory) and [here](http://imaging.mrc-cbu.cam.ac.uk/imaging/DataDiagnostics) gives you the indications of noise you might find in your data. 
 
@@ -18,7 +18,7 @@ If you know any sources that you think they should be listed here please do feel
 
 * MIT's [Mindhive](http://mindhive.mit.edu/node/54) has always been one of the websites I look for a help for fMRI data analysis and I highly recommend 
 
-* I believe there is no need to promote, as usual wonderful series of blogposts by [practiCal fMRI](https://twitter.com/practiCalfMRI) could be found from [here](https://practicalfmri.blogspot.com/2011/11/understanding-fmri-artifacts.html) and [here](https://practicalfmri.blogspot.com/2011/11/understanding-fmri-artifacts-good.html) 
+* I believe there is no need to promote, but a wonderful series of blog posts by [practiCal fMRI](https://twitter.com/practiCalfMRI) could be found from [here](https://practicalfmri.blogspot.com/2011/11/understanding-fmri-artifacts.html) and [here](https://practicalfmri.blogspot.com/2011/11/understanding-fmri-artifacts-good.html) 
 
 
 
@@ -35,7 +35,7 @@ If you know any sources that you think they should be listed here please do feel
 ### Presentations
 * [MRI Quality Control Presentation](http://cbs.fas.harvard.edu/usr/mcmains/CBS_MRI_Quality_Control_Workshop.pdf) by Natasha S. Hansen
 
-* CONN toolbox's quality assurrance and analysis [slides](https://web.conn-toolbox.org/tutorials#h.p_Pk74qAeMP6Ml)
+* CONN toolbox's quality assurance and analysis [slides](https://web.conn-toolbox.org/tutorials#h.p_Pk74qAeMP6Ml)
 
 
 ### Videos of MR Quality Assessments
