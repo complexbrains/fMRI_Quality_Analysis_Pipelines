@@ -16,7 +16,7 @@ If you know any sources that you think they should be listed here please do feel
 
 * MIT's [Mindhive](http://mindhive.mit.edu/node/54) has always been one of the websites I look for a help for fMRI data analysis and I highly recommend 
 
-* I believe there is no need to indicate specifically but wonderful series of blogposts [here](https://practicalfmri.blogspot.com/2011/11/understanding-fmri-artifacts.html) and [here](https://practicalfmri.blogspot.com/2011/11/understanding-fmri-artifacts-good.html) by [practiCal fMRI](https://twitter.com/practiCalfMRI).
+* I believe there is no need to promote, as usual wonderful series of blogposts by [practiCal fMRI](https://twitter.com/practiCalfMRI). could be found from [here](https://practicalfmri.blogspot.com/2011/11/understanding-fmri-artifacts.html) and [here](https://practicalfmri.blogspot.com/2011/11/understanding-fmri-artifacts-good.html) 
 
 
 
