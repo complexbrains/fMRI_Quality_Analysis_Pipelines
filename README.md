@@ -18,7 +18,7 @@ If you know any sources that you think they should be listed here please do feel
 
 * MIT's [Mindhive](http://mindhive.mit.edu/node/54) has always been one of the websites I look for a help for fMRI data analysis and I highly recommend 
 
-* I believe there is no need to promote, as usual wonderful series of blogposts by [practiCal fMRI](https://twitter.com/practiCalfMRI). could be found from [here](https://practicalfmri.blogspot.com/2011/11/understanding-fmri-artifacts.html) and [here](https://practicalfmri.blogspot.com/2011/11/understanding-fmri-artifacts-good.html) 
+* I believe there is no need to promote, as usual wonderful series of blogposts by [practiCal fMRI](https://twitter.com/practiCalfMRI) could be found from [here](https://practicalfmri.blogspot.com/2011/11/understanding-fmri-artifacts.html) and [here](https://practicalfmri.blogspot.com/2011/11/understanding-fmri-artifacts-good.html) 
 
 
 
@@ -58,7 +58,9 @@ If you know any sources that you think they should be listed here please do feel
 
 * Rorden Lab's fMRI analysis and quality investigation [scripts](https://github.com/rordenlab/spmScripts)
 
+* [NDS Lab]'s (http://www.decisionneurosciencelab.com/) MRI preprocessing and quality [analysis pipeline](http://ndslab.github.io/mri_pipeline/doc/#!index.md) in which you could run a spike detection analysis, investigate the movement parameters you obtained in realignment, extract and plot mean image statistics across slices and images and plot the mosaic movies from your functional images. They also provide a preprocessing SPM batch scripts. 
 
+* You can also find another set of scripts of Jeroen van Baar's [Github page](https://github.com/jeroenvanbaar/mri_pipeline/tree/master/analysis_mri/2_data_quality_check). The scrits contains function to detects spikes in the data and remove from it.
 
 ### Scientific Articles
 
