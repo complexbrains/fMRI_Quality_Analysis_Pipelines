@@ -33,12 +33,16 @@ If you know any sources that you think they should be listed here please do feel
 
 
 ### Presentations
-[MRI Quality Control Presentation](http://cbs.fas.harvard.edu/usr/mcmains/CBS_MRI_Quality_Control_Workshop.pdf) by Natasha S. Hansen
+* [MRI Quality Control Presentation](http://cbs.fas.harvard.edu/usr/mcmains/CBS_MRI_Quality_Control_Workshop.pdf) by Natasha S. Hansen
+
+* CONN toolbox's quality assurrance and analysis [slides](https://web.conn-toolbox.org/tutorials#h.p_Pk74qAeMP6Ml)
 
 
 ### Videos of MR Quality Assessments
 
-[Introduction to manual quality control in FSL](https://vimeo.com/61213860) by Harvard University.
+* [Introduction to manual quality control in FSL](https://vimeo.com/61213860) by Harvard University.
+
+* Andrew Jahn's video on [Quality Checks for fMRI Data](https://www.youtube.com/watch?v=fvv2dr3pT7I) 
 
 
 
