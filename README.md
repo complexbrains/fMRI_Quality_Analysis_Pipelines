@@ -1,6 +1,6 @@
 # fMRI Quality Analysis Pipelines
 
-I have been looking for information about fMRI data quality analysis techniques for a while for my own fMRI quality analysis. I made a list of available sources from some websites/blogs and academical papers and wanted to share with anyone interested. I will be updating those sites as I found along my analysis continues but here is the current list of the sources I have collected so far. I hope those help you all too. 
+I have been working on a quality analysis of a set of fMRI data that I collected this year and I made a list of available sources from some websites, blogs, academical papers including set of codes and slides and wanted to share with anyone interested. I will be updating this page as I find any source along my analysis continues but here is the current list of the sources I have collected so far. I benefited from all, I hope they would work for you all too.
 
 If you know any sources that you think they should be listed here please do feel free to add those here. You can either send me a pull request and reach me out through my email or twitter account.
 
