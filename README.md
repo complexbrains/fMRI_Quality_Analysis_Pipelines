@@ -69,7 +69,8 @@ If you know any sources that you think they should be listed here please do feel
 ### Scientific Articles
 
 * Davids et al.,[Fully-automated quality assurance in multi-center studies using MRI phantom measurements](https://www.ncbi.nlm.nih.gov/pubmed/24602825). Magn. Reson. Imaging.  2014. 32, 771–780.
-
+ 
+* Johnstone et al., [Motion correction and the use of motion covariates in multiple-subject fMRI analysis](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.20219). Human Brain Mapping. 2006 27:779-788
 
 * Stöcker et al., [Automated quality assurance routines for fMRI data applied to a multicenter study](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.20096). Hum Brain Mapp. 2005 Jun; 25(2):237-46.
 
@@ -77,15 +78,23 @@ If you know any sources that you think they should be listed here please do feel
 Ugurbil, K., Berliner, L., Uludag, K. (Eds.), fMRI: From Nuclear Spins to Brain Function.
 Springer
 
-* . Friedman L et al. [Report on a multicenter fMRI quality assurance protocol](https://onlinelibrary.wiley.com/doi/full/10.1002/jmri.20583). J Magn Reson Imaging. 2006 Jun; 23(6):827-39. 
+* Bullmore et al., [Methods for diagnosis and treatment of stimulus-correlated motion in generic brain activation studies using fMRI](https://www.ncbi.nlm.nih.gov/pubmed/9882089). Human Brain Mapping. (1998 7: 38-48
 
-* Alfaro-Almagro et al. [Image processing and Quality Control for the first 10,000 brain imaging datasets from UK Biobank](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5770339/). Neuroimage. 2018 Feb 1; 166: 400–424. 
+* . Friedman et al. [Report on a multicenter fMRI quality assurance protocol](https://onlinelibrary.wiley.com/doi/full/10.1002/jmri.20583). J Magn Reson Imaging. 2006 Jun; 23(6):827-39. 
+
+* Alfaro-Almagro et al. [Image processing and Quality Control for the first 10,000 brain imaging datasets from UK Biobank](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5770339/). Neuroimage. 2018 Feb 1; 166: 400–424.
+
+* Hutton et al., [Image distortion correction in fMRI: A quantitative evaluation](https://pdfs.semanticscholar.org/2e7e/4aa5c4e9d52d1b0f8c5d981de1ecda160611.pdf). NeuroImage. 2002, 16:217-240
+
+* Hutton et al., [Combined correction for geometric distortion and its interaction with head motion in fMRI](https://www.researchgate.net/publication/285129384_Combined_correction_for_geometric_distortion_and_its_interaction_with_head_motion_in_fMRI). Proceedings of ISMRM 12, 2004, Kyoto, Japan
 
 * Power et al. [Spurious but systematic correlations in functional connectivity MRI networks arise from subject motion](https://www.ncbi.nlm.nih.gov/pubmed/22019881). Neuroimage. 2012 59(3):2142-54.
 
 * Satterthwaite et al., [Motion artifact in studies of functional connectivity: characteristics and mitigation strategies](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.23665) Hum. Brain Mapp. 2017.
 
 * Ciric et al., [Benchmarking of participant-level confound regression strategies for the control of motion artifact in studies of functional connectivity.](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28302591/) Neuroimage. 2017 Jul 1; 154: 174–187.
+
+* Andersson et al., [Modelling geometric deformations in EPI time series](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.159.3027&rep=rep1&type=pdf). NeuroImage. 2001 13:903-919
 
 
 
