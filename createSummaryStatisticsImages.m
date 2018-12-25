@@ -11,6 +11,7 @@ function createSummaryStatisticsImages
 % slice and image difference variables. They are all are saved to the
 % subject folder at the end of this script.
 % 
+% Dependency: spm12, tsdiffana toolbox from CBU.
 % Isil Bilgin 01/04/2018
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
