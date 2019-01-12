@@ -66,6 +66,9 @@ If you know any sources that you think they should be listed here please do feel
 
 * You can also find another set of scripts of Jeroen van Baar's [Github page](https://github.com/jeroenvanbaar/mri_pipeline/tree/master/analysis_mri/2_data_quality_check). The scripts contains function to detects spikes in the data and remove from it.
 
+* [Codes](https://github.com/lindenmp/rs-fMRI/tree/master/qc) from Parkes et al.'s paper listed below.
+
+
 ### Scientific Articles
 
 * Davids et al.,[Fully-automated quality assurance in multi-center studies using MRI phantom measurements](https://www.ncbi.nlm.nih.gov/pubmed/24602825). Magn. Reson. Imaging.  2014. 32, 771–780.
@@ -95,6 +98,9 @@ Springer
 * Ciric et al., [Benchmarking of participant-level confound regression strategies for the control of motion artifact in studies of functional connectivity.](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28302591/) Neuroimage. 2017 Jul 1; 154: 174–187.
 
 * Andersson et al., [Modelling geometric deformations in EPI time series](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.159.3027&rep=rep1&type=pdf). NeuroImage. 2001 13:903-919
+
+* Parkes et al., [An evaluation of the efficacy, reliability, and sensitivity of motion correction strategies for resting-state functional MRI](https://www.sciencedirect.com/science/article/pii/S1053811917310972). NeuroImage. 2018. 171:415-436
+
 
 
 
