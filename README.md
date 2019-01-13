@@ -30,7 +30,7 @@ If you know any sources that you think they should be listed here please do feel
 
 * University of Newyork's fMRI Data Quality [guideline](http://cbi.nyu.edu/Downloads/dataQuality.pdf)
 
-* Ok, maybe this is not directly data quality book but I found it very useful and share with you guys from here now. I move it later when I open another page for tutorials etc., but please give credit to this work! [Handbook of Structural Brain MRI Data Analysis] (http://jeromemallershandbookofstructuralbrainmrianalysis.yolasite.com/) by Jerome J Maller from  Monash Alfred Psychiatry research center, Australia. 
+* Ok, maybe this is not directly data quality book but I found it very useful and share with you guys from here now. I move it later when I open another page for tutorials etc., but please give credit to this work! [Handbook of Structural Brain MRI Data Analysis](http://jeromemallershandbookofstructuralbrainmrianalysis.yolasite.com/) by Jerome J Maller from  Monash Alfred Psychiatry research center, Australia. 
 
 
 
