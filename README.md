@@ -70,6 +70,8 @@ If you know any sources that you think they should be listed here please do feel
 
 * [Codes](https://github.com/lindenmp/rs-fMRI/tree/master/qc) from Parkes et al.'s paper listed below.
 
+* A toolbox by Stanford University for visual review and running semi-automatic detection and repair functions on fMRI data: [ArtRepair](https://cibsr.stanford.edu/tools/human-brain-project/artrepair-software/artrepairinstructions.html)
+
 
 ### Scientific Articles
 
