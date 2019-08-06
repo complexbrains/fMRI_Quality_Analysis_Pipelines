@@ -104,6 +104,7 @@ Springer
 * Andersson et al., [Modelling geometric deformations in EPI time series](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.159.3027&rep=rep1&type=pdf). NeuroImage. 2001 13:903-919
 
 * Parkes et al., [An evaluation of the efficacy, reliability, and sensitivity of motion correction strategies for resting-state functional MRI](https://www.sciencedirect.com/science/article/pii/S1053811917310972). NeuroImage. 2018. 171:415-436
+* Lu et al.,[Quality assurance of human functional magnetic resonance imaging: a literature review.](https://www.ncbi.nlm.nih.gov/pubmed/31367569)
 
 
 
