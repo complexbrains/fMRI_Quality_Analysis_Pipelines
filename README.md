@@ -106,7 +106,8 @@ Springer
 * Parkes et al., [An evaluation of the efficacy, reliability, and sensitivity of motion correction strategies for resting-state functional MRI](https://www.sciencedirect.com/science/article/pii/S1053811917310972). NeuroImage. 2018. 171:415-436
 
 
-fMRI Dicom/Nifti Anonymisation Tools
+
+### fMRI Dicom/Nifti Anonymisation Tools
 
 [Dcm2nii](https://people.cas.sc.edu/rorden/mricron/dcm2nii.html)
 [Dicom Rewriter](https://imagej.nih.gov/ij/plugins/dicom-rewriter.html)
@@ -117,8 +118,7 @@ fMRI Dicom/Nifti Anonymisation Tools
 [QuickShare](https://github.com/nipy/quickshear)
 
 
-
-fMRI Imaging Tools
+###fMRI Imaging Tools
 [Mango](http://ric.uthscsa.edu/mango/versionhistory.html)
 [MRICro](https://www.mccauslandcenter.sc.edu/crnl/mricro)
 
