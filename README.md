@@ -140,7 +140,7 @@ Springer
 
 [BIDSonym](https://github.com/PeerHerholz/BIDSonym)
 
-[Gump Data](https://github.com/mih/gumpdata)
+[MRI Defacer](https://github.com/mih/mridefacer)
 
 [MRIDefacer](https://github.com/mih/mridefacer)
 
