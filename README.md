@@ -111,16 +111,24 @@ Springer
 ### fMRI Dicom/Nifti Anonymisation Tools
 
 [Dcm2nii](https://people.cas.sc.edu/rorden/mricron/dcm2nii.html)
+
 [Dicom Rewriter](https://imagej.nih.gov/ij/plugins/dicom-rewriter.html)
+
 [MRI Deface](https://surfer.nmr.mgh.harvard.edu/fswiki/mri_deface)
+
 [Dicom Anonymiser](https://sourceforge.net/projects/dicomanonymizer/)
+
 [Dicom Cleaner](http://www.dclunie.com/pixelmed/software/webstart/DicomCleanerUsage.html)
+
 [Pydeface](https://github.com/poldracklab/pydeface)
+
 [QuickShare](https://github.com/nipy/quickshear)
 
 
 ### fMRI Imaging Tools
+
 [Mango](http://ric.uthscsa.edu/mango/versionhistory.html)
+
 [MRICro](https://www.mccauslandcenter.sc.edu/crnl/mricro)
 
 
