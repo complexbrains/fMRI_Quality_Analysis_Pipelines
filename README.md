@@ -124,6 +124,8 @@ Springer
 
 [QuickShare](https://github.com/nipy/quickshear)
 
+[Matlab Dicom Anonymisation Function](https://www.mathworks.com/help/images/ref/dicomanon.html)
+
 
 ### fMRI Imaging Tools
 
