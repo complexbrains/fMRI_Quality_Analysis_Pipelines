@@ -130,7 +130,7 @@ Springer
 
 [MRI_watershed](https://surfer.nmr.mgh.harvard.edu/fswiki/mri_watershed)
 
-[BET:Brain Extraction Tool](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/BET/UserGuide)
+[BET: Brain Extraction Tool](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/BET/UserGuide)
 
 [The De-identification Toolbox:DEID](https://www.nitrc.org/projects/de-identification)
 
@@ -148,7 +148,7 @@ Springer
 
 [QuicksHear](https://github.com/nipy/quickshear/)
 
-[CSG:Dicoms Anonymisation Tool](https://pypi.org/project/csg-dicoms-anonymizer/)
+[CSG: Dicoms Anonymisation Tool](https://pypi.org/project/csg-dicoms-anonymizer/)
 
 [Dicom Release](https://github.com/ssikka/Dicom-Release)
 
