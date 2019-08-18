@@ -114,7 +114,7 @@ Springer
 
 [Dicom Rewriter](https://imagej.nih.gov/ij/plugins/dicom-rewriter.html)
 
-[MRI Deface](https://surfer.nmr.mgh.harvard.edu/fswiki/mri_deface)
+[MRI Deface: Defacing Structural Data](https://surfer.nmr.mgh.harvard.edu/fswiki/mri_deface)
 
 [Dicom Anonymiser](https://sourceforge.net/projects/dicomanonymizer/)
 
@@ -126,7 +126,7 @@ Springer
 
 [Matlab Dicom Anonymisation Function](https://www.mathworks.com/help/images/ref/dicomanon.html)
 
-[Robust Brain Extraction (ROBEX)](https://www.nitrc.org/projects/robex)
+[Robust Brain Extraction (ROBEX): Defacing Structural Data](https://www.nitrc.org/projects/robex)
 
 [MRI_watershed](https://surfer.nmr.mgh.harvard.edu/fswiki/mri_watershed)
 
