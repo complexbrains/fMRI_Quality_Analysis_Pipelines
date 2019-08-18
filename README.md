@@ -140,8 +140,6 @@ Springer
 
 [BIDSonym](https://github.com/PeerHerholz/BIDSonym)
 
-[Pydeface](https://github.com/poldracklab/pydeface)
-
 [Convert Dicom's Anatomy](https://github.com/mih/gumpdata/blob/master/scripts/conversion/convert_dicoms_anatomy#L26)
 
 [MRIDefacer](https://github.com/mih/mridefacer)
