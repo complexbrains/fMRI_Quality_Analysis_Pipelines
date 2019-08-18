@@ -148,6 +148,9 @@ Springer
 
 [QuicksHear](https://github.com/nipy/quickshear/)
 
+[CSG:Dicoms Anonymisation Tool](https://pypi.org/project/csg-dicoms-anonymizer/)
+
+[Dicom Release](https://github.com/ssikka/Dicom-Release)
 
 
 
