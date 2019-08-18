@@ -140,7 +140,7 @@ Springer
 
 [BIDSonym](https://github.com/PeerHerholz/BIDSonym)
 
-[Convert Dicom's Anatomy](https://github.com/mih/gumpdata/blob/master/scripts/conversion/convert_dicoms_anatomy#L26)
+[Gump Data](https://github.com/mih/gumpdata)
 
 [MRIDefacer](https://github.com/mih/mridefacer)
 
