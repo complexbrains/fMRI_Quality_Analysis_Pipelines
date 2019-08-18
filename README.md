@@ -126,6 +126,30 @@ Springer
 
 [Matlab Dicom Anonymisation Function](https://www.mathworks.com/help/images/ref/dicomanon.html)
 
+[Robust Brain Extraction (ROBEX)](https://www.nitrc.org/projects/robex)
+
+[MRI_watershed](https://surfer.nmr.mgh.harvard.edu/fswiki/mri_watershed)
+
+[BET:Brain Extraction Tool](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/BET/UserGuide)
+
+[The De-identification Toolbox:DEID](https://www.nitrc.org/projects/de-identification)
+
+[Python Deid](https://pydicom.github.io/deid/)
+
+[AFNI: Skull Stripping](https://afni.nimh.nih.gov/pub/dist/doc/program_help/3dSkullStrip.html)
+
+[BIDSonym](https://github.com/PeerHerholz/BIDSonym)
+
+[Pydeface](https://github.com/poldracklab/pydeface)
+
+[Convert Dicom's Anatomy](https://github.com/mih/gumpdata/blob/master/scripts/conversion/convert_dicoms_anatomy#L26)
+
+[MRIDefacer](https://github.com/mih/mridefacer)
+
+[QuicksHear](https://github.com/nipy/quickshear/)
+
+
+
 
 ### fMRI Imaging Tools
 
