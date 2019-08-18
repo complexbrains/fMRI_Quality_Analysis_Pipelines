@@ -119,7 +119,7 @@ Springer
 [QuickShare](https://github.com/nipy/quickshear)
 
 
-###fMRI Imaging Tools
+### fMRI Imaging Tools
 [Mango](http://ric.uthscsa.edu/mango/versionhistory.html)
 [MRICro](https://www.mccauslandcenter.sc.edu/crnl/mricro)
 
