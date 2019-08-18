@@ -110,45 +110,49 @@ Springer
 
 ### fMRI Dicom/Nifti Anonymisation Tools
 
+**Dicom Anonymisation**
+
 [Dcm2nii](https://people.cas.sc.edu/rorden/mricron/dcm2nii.html)
 
 [Dicom Rewriter](https://imagej.nih.gov/ij/plugins/dicom-rewriter.html)
-
-[MRI Deface: Defacing Structural Data](https://surfer.nmr.mgh.harvard.edu/fswiki/mri_deface)
 
 [Dicom Anonymiser](https://sourceforge.net/projects/dicomanonymizer/)
 
 [Dicom Cleaner](http://www.dclunie.com/pixelmed/software/webstart/DicomCleanerUsage.html)
 
-[Pydeface](https://github.com/poldracklab/pydeface)
-
-[QuickShare](https://github.com/nipy/quickshear)
-
 [Matlab Dicom Anonymisation Function](https://www.mathworks.com/help/images/ref/dicomanon.html)
+
+[CSG: Dicoms Anonymisation Tool](https://pypi.org/project/csg-dicoms-anonymizer/)
+
+
+
+**Dicom Defacing**
+
+[MRI Deface: Defacing Structural Data](https://surfer.nmr.mgh.harvard.edu/fswiki/mri_deface)
+
+[Pydeface](https://github.com/poldracklab/pydeface)(Python based)
+
+[QuickShare](https://github.com/nipy/quickshear)(Python based)
 
 [Robust Brain Extraction (ROBEX): Defacing Structural Data](https://www.nitrc.org/projects/robex)
 
-[MRI_watershed](https://surfer.nmr.mgh.harvard.edu/fswiki/mri_watershed)
+[MRI_watershed](https://surfer.nmr.mgh.harvard.edu/fswiki/mri_watershed)(Python based)
 
 [BET: Brain Extraction Tool](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/BET/UserGuide)
 
 [The De-identification Toolbox:DEID](https://www.nitrc.org/projects/de-identification)
 
-[Python Deid](https://pydicom.github.io/deid/)
+[Python Deid](https://pydicom.github.io/deid/)(Python based)
 
 [AFNI: Skull Stripping](https://afni.nimh.nih.gov/pub/dist/doc/program_help/3dSkullStrip.html)
 
-[BIDSonym](https://github.com/PeerHerholz/BIDSonym)
+[BIDSonym](https://github.com/PeerHerholz/BIDSonym)(BID + Python Based)
 
 [MRI Defacer](https://github.com/mih/mridefacer)
 
-[MRIDefacer](https://github.com/mih/mridefacer)
-
-[QuicksHear](https://github.com/nipy/quickshear/)
-
-[CSG: Dicoms Anonymisation Tool](https://pypi.org/project/csg-dicoms-anonymizer/)
-
 [Dicom Release](https://github.com/ssikka/Dicom-Release)
+
+[Bioimage Suite](https://bioimagesuiteweb.github.io/webapp/)
 
 
 
