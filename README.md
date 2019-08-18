@@ -130,9 +130,9 @@ Springer
 
 [MRI Deface: Defacing Structural Data](https://surfer.nmr.mgh.harvard.edu/fswiki/mri_deface)
 
-[Pydeface](https://github.com/poldracklab/pydeface)(Python based)
+[Pydeface](https://github.com/poldracklab/pydeface) (Python based)
 
-[QuickShare](https://github.com/nipy/quickshear)(Python based)
+[QuickShare](https://github.com/nipy/quickshear) (Python based)
 
 [Robust Brain Extraction (ROBEX): Defacing Structural Data](https://www.nitrc.org/projects/robex)
 
@@ -142,11 +142,11 @@ Springer
 
 [The De-identification Toolbox:DEID](https://www.nitrc.org/projects/de-identification)
 
-[Python Deid](https://pydicom.github.io/deid/)(Python based)
+[Python Deid](https://pydicom.github.io/deid/) (Python based)
 
 [AFNI: Skull Stripping](https://afni.nimh.nih.gov/pub/dist/doc/program_help/3dSkullStrip.html)
 
-[BIDSonym](https://github.com/PeerHerholz/BIDSonym)(BID + Python Based)
+[BIDSonym](https://github.com/PeerHerholz/BIDSonym) (BID + Python Based)
 
 [MRI Defacer](https://github.com/mih/mridefacer)
 
