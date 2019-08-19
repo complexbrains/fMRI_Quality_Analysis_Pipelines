@@ -150,8 +150,6 @@ Springer
 
 [MRI Defacer](https://github.com/mih/mridefacer)
 
-[Dicom Release](https://github.com/ssikka/Dicom-Release)
-
 [Bioimage Suite](https://bioimagesuiteweb.github.io/webapp/)
 
 
