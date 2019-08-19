@@ -126,6 +126,9 @@ Springer
 
 [The De-identification Toolbox: DEID](https://www.nitrc.org/projects/de-identification)
 
+[Python Deid](https://pydicom.github.io/deid/) (Python based)
+
+
 
 
 **Dicom Defacing**
@@ -139,8 +142,6 @@ Springer
 [Robust Brain Extraction (ROBEX): Defacing Structural Data](https://www.nitrc.org/projects/robex)
 
 [MRI_watershed](https://surfer.nmr.mgh.harvard.edu/fswiki/mri_watershed) (Freesurfer based)
-
-[Python Deid](https://pydicom.github.io/deid/) (Python based)
 
 [AFNI: Skull Stripping](https://afni.nimh.nih.gov/pub/dist/doc/program_help/3dSkullStrip.html)
 
