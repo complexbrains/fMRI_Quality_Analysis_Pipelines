@@ -140,8 +140,6 @@ Springer
 
 [MRI_watershed](https://surfer.nmr.mgh.harvard.edu/fswiki/mri_watershed) (Freesurfer based)
 
-[BET: Brain Extraction Tool](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/BET/UserGuide)
-
 [Python Deid](https://pydicom.github.io/deid/) (Python based)
 
 [AFNI: Skull Stripping](https://afni.nimh.nih.gov/pub/dist/doc/program_help/3dSkullStrip.html)
