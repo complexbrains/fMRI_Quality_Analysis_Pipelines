@@ -138,7 +138,7 @@ Springer
 
 [Robust Brain Extraction (ROBEX): Defacing Structural Data](https://www.nitrc.org/projects/robex)
 
-[MRI_watershed](https://surfer.nmr.mgh.harvard.edu/fswiki/mri_watershed) (Python based)
+[MRI_watershed](https://surfer.nmr.mgh.harvard.edu/fswiki/mri_watershed) (Freesurfer based)
 
 [BET: Brain Extraction Tool](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/BET/UserGuide)
 
