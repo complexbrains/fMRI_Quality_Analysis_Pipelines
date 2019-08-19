@@ -124,6 +124,8 @@ Springer
 
 [CSG: Dicoms Anonymisation Tool](https://pypi.org/project/csg-dicoms-anonymizer/)
 
+[The De-identification Toolbox: DEID](https://www.nitrc.org/projects/de-identification)
+
 
 
 **Dicom Defacing**
@@ -139,8 +141,6 @@ Springer
 [MRI_watershed](https://surfer.nmr.mgh.harvard.edu/fswiki/mri_watershed) (Python based)
 
 [BET: Brain Extraction Tool](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/BET/UserGuide)
-
-[The De-identification Toolbox:DEID](https://www.nitrc.org/projects/de-identification)
 
 [Python Deid](https://pydicom.github.io/deid/) (Python based)
 
